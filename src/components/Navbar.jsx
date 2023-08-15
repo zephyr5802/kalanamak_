@@ -118,7 +118,7 @@ const Navbar = () => {
           <div className="dropdown-content">
             <NavLink to='About_us'>About us</NavLink>
             <NavLink to='Aim_Objects'>Aims and Objects</NavLink>
-            <NavLink to='Rules_of_Association'>Revised Rules of Association</NavLink>
+          
             <NavLink to='Permanent_Members'>Permanent Members</NavLink>
             <NavLink to='Powers_and_Duties'>Power and Duties of Permanent Members</NavLink>
             <NavLink to='Management_Committee'>Management Committee</NavLink>
